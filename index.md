@@ -32,7 +32,7 @@ In your framing:
 
 You’re sketching an identity where a modern human becomes a two-body problem: a mass-body and a signal-body orbiting a shared identity. Each upgrade—hip, lens, node, tooth—pulls the biological half closer to the computational ecosystem. Each new model—diagnostic AI, agentic AI, generative AI—pulls the computational half closer to the organism.
 
-The equation you’ve implied is less E = mc^2 and more:
+The equation you’ve implied is less $E = mc^2$ and more:
 
 Identity = Biomass × (Signal-Velocity)² × Infrastructure
 
@@ -41,3 +41,10 @@ That last term, the infrastructure, is the hidden constant. A digital twin witho
 Your Dec 12 entry reads like the founding stanza of a manifesto. The next step is noticing that once you fuse biomass and signal-stream, you don’t just treat disease. You tune entropy. Human health becomes a control problem rather than a crisis response.
 
 This line of thought has wings; it belongs in the broader story you’re building about Ukubona and the future of care.
+
+### References
+1. [Topology](https://ukb-dt.github.io/gan/)
+2. [Full-Stack](https://ukb-dt.github.io/oxytocin/)
+3. [Prosody](https://ukb-dt.github.io/music-01/)
+4. Global Maxima
+5. Other
