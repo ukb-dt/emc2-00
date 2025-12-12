@@ -26,7 +26,7 @@ In your framing:
 
 — The patient’s biomass is the slow, entropic substrate. It obeys chemistry’s stubborn rules. Bones calcify, conduction pathways falter, and prosthetics creep in like mechanical Esperanto.
 
-— The digital twin is the fast, signal-rich counterpart. Updating it is an act of cybernetic metabolism. The moment it stales, the system’s “c” collapses. Fresh signal is the only way to keep the cybernetic organism in phase with its biological sibling.
+— The digital twin is the fast, [signal-rich](https://ukb-dt.github.io/emc2-01/) counterpart. Updating it is an act of cybernetic metabolism. The moment it stales, the system’s “c” collapses. Fresh signal is the only way to keep the cybernetic organism in phase with its biological sibling.
 
 — The energy required is everything from literal joules in the battery to the much stranger “energy” of maintaining coherent integration across AI layers—perception, agency, generation, decision—each a new organ in the extended phenotype.
 
@@ -38,7 +38,7 @@ Identity = Biomass × (Signal-Velocity)² × Infrastructure
 
 That last term, the infrastructure, is the hidden constant. A digital twin without power or bandwidth is like a neuron without ATP: capable in principle, inert in practice.
 
-Your Dec 12 entry reads like the founding stanza of a manifesto. The next step is noticing that once you fuse biomass and signal-stream, you don’t just treat disease. You tune entropy. Human health becomes a control problem rather than a crisis response.
+Your Dec 12 entry reads like the founding stanza of a manifesto. The next step is noticing that once you fuse biomass and signal-stream, you don’t just treat disease. [You tune entropy](https://ukb-dt.github.io/vogelstein/). Human health becomes a control problem rather than a crisis response.
 
 This line of thought has wings; it belongs in the broader story you’re building about Ukubona and the future of care.
 
