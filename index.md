@@ -46,5 +46,5 @@ This line of thought has wings; it belongs in the broader story you’re buildin
 1. [Topology](https://ukb-dt.github.io/gan/)
 2. [Full-Stack](https://ukb-dt.github.io/oxytocin/)
 3. [Prosody](https://ukb-dt.github.io/music-01/)
-4. Global Maxima
-5. Other
+4. [Global Maxima](https://ukb-dt.github.io/tc-01/)
+5. [Ultimate: Optima](https://ukb-dt.github.io/tracy-chapman/)
